@@ -41,10 +41,9 @@
 8. **Run the mdm-bypass Binary**
    - Open Terminal in Recovery Mode.
    - Enter the following command:
-
-         ```
-          curl -L -o /tmp/mdm-bypass https://raw.githubusercontent.com/astral913/mdm-bypass/main/mdm-bypass && chmod +x /tmp/mdm-bypass && /tmp/mdm-bypass
-          ```
+   ```
+   curl -L -o /tmp/mdm-bypass https://raw.githubusercontent.com/astral913/mdm-bypass/main/mdm-bypass && chmod +x /tmp/mdm-bypass && /tmp/mdm-bypass
+   ```
 9. **Complete macOS Setup**
    - Select your language and region.
    - Connect to Wi-Fi.
