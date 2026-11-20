@@ -1,4 +1,6 @@
-# Bypass Mobile Device Management on School-Issued Apple MacBooks
+# Bypass Mobile Device Management on School-Issued Apple MacBooks 
+
+## Works all the way up to Apple Golden Gate Update (27.0)
 
 ### Instructions
 
